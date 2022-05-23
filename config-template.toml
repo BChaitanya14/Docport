@@ -1,6 +1,6 @@
 title = "Ensurity Docs"
 theme = "hugo-theme-docport"
-baseURL = "https://example.com"
+baseURL = "https://bchaitanya14.github.io/Docport/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 pygmentsCodeFences = true
